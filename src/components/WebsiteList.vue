@@ -7,7 +7,7 @@
         class="d-flex child-flex"
         cols="3"
       >
-        <v-hover v-slot:default="{ isHovering }">
+        <v-hover >
           <a :href="image.link" target="_blank" rel="noopener noreferrer">
             <v-img
               :lazy-src="image.lazySrc"
