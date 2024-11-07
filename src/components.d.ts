@@ -13,6 +13,7 @@ declare module 'vue' {
     Layout1: typeof import('./components/Layout1.vue')['default']
     Layout2: typeof import('./components/Layout2.vue')['default']
     Memo: typeof import('./components/Memo.vue')['default']
+    Paper: typeof import('./components/Paper.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     Timeline: typeof import('./components/Timeline.vue')['default']
