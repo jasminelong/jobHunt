@@ -1,6 +1,6 @@
 <template>
-    <Memo />
-   
+   <!-- <Memo />-->
+    <HelloWorld />
  </template>
  
  <script lang="ts" setup>

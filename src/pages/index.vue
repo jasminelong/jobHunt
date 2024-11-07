@@ -1,6 +1,6 @@
 <template>
    <!--<HelloWorld />-->
-  <WebsiteList></WebsiteList>
+  <WebsiteList />
 </template>
 
 <script lang="ts" setup>

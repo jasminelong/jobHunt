@@ -9,10 +9,10 @@
       <v-navigation-drawer>
         <v-list>
  
-          <v-list-item link title="首页" to="/index">  
+          <v-list-item link title="home" to="/">  
     </v-list-item>
             <v-list-item link title="memo" to="/memo"></v-list-item>
-            <v-list-item link title="List Item 3"></v-list-item>
+            <v-list-item link title="paper" to="/paper"></v-list-item>
         </v-list>
       </v-navigation-drawer>
   
