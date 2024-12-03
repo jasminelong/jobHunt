@@ -9,8 +9,8 @@
       <v-navigation-drawer>
         <v-list>
  
-          <v-list-item link title="home" to="/paper"></v-list-item>
-          <v-list-item link title="memo" to="/memo"></v-list-item>
+          <v-list-item link title="HOME" to="/"></v-list-item>
+          <v-list-item link title="LINK" to="/memo"></v-list-item>
             
         </v-list>
       </v-navigation-drawer>
