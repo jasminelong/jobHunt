@@ -80,6 +80,13 @@ export default {
           link: 'https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00193/full'
         },
         {
+          title: '運動方向の異なる視覚刺激が混在する場合のベクション効果の分析',
+          abstract: "視覚誘導性自己運動感覚 (ベクション) は，知覚する運動方向の違いから直線運動感覚 (Linear Vection; LV) と回転運動感覚 (Circular Vection; CV) の 2 つに分けられる．我々の先行研究では，LV と CV を同時に引き起こす，回転しながら直進，つまり，スパイラル運動する視覚刺激を用いて，LV 強度と CV 強度を測定した．その結果，LV 強度と CV 強度は互いに影響し合い，その関係は負の相関関係であることを示した．そこで，本研究では，直進運動をする視覚刺激と回転運動をする視覚刺激を同時に提示し，LV 強度と CV 強度に先行研究と同様の傾向が得られるか分析した．結果，その強さに違いはあるものの，先行研究と同様の負の相関関係があることを明らかにした．さらに，同様の視覚刺激を観察させ，主観的な速度を回答させたところ，ベクション強度において観察された負の相関関係は生じなかった．このことから，ベクション強度において負の相関関係が生じたのは，2 種類の運動の相互作用によって知覚される速さが変化したためではないことが示された．",
+          keyword:  '視覚誘導性自己運動感覚，直線ベクション，回転ベクション，Head Mounted Display',
+          image: 'https://maedalab-my.sharepoint.com/personal/kuang_longhui_hiel_ist_osaka-u_ac_jp/_layouts/15/download.aspx?share=Eba6HY1WbTNIpDMCro9yBbMBH3cWn_uilDOtF5gG7ciuiA',
+          link: 'https://www.rm2c.ise.ritsumei.ac.jp/papers/2020/IPSJ-HCI192_matsuda.pdf'
+        },
+        {
           title: 'Second-order motions contribute to vection',
           abstract: "First- and second-order motions differ in their ability to induce motion aftereffects (MAEs) and the kinetic depth effect (KDE). To test whether second-order stimuli support computations relating to motion-in-depth we examined the vection illusion (illusory self motion induced by image flow) using a vection stimulus (V, expanding concentric rings) that depicted a linear path through a circular tunnel. The set of vection stimuli contained differing amounts of first- and second-order motion energy (ME). Subjects reported the duration of the perceived MAEs and the duration of their vection percept. In Experiment 1 both MAEs and vection durations were longest when the first-order (Fourier) components of V were present in the stimulus. In Experiment 2, V was multiplicatively combined with static noise carriers having different check sizes. The amount of first-order ME associated with V increases with check size. MAEs were found to increase with check size but vection durations were unaffected. In general MAEs depend on the amount of first-order ME present in the signal. Vection, on the other hand, appears to depend on a representation of image flow that combines first- and second-order ME.",
           keyword:  'VectionSelf-motionMotion-aftereffectsMotionSecond-order motion', 
@@ -190,6 +197,27 @@ export default {
           keyword:  ' ', 
           image: 'https://maedalab-my.sharepoint.com/personal/kuang_longhui_hiel_ist_osaka-u_ac_jp/_layouts/15/download.aspx?share=EQQtCOuFAQ9HoNLo0Wv2FKIBy99VBoEXLAye1PY3caiUSw',
           link: 'https://sci-hub.se/10.1006/nimg.2002.1181'
+        },
+        {
+          title: 'Eccentric gaze dynamics enhance vection in depth',
+          abstract: "This study examined the role of eccentric gaze dynamics in the generation of visual illusions of self-motion (i.e., vection). In Experiment 1, observers maintained their gaze either upward, downward, leftward, or rightward with respect to the center of a radially expanding optic flow pattern, which simulated forward self-motion in depth through a 3D cloud of objects. Real-time vection strength ratings and changes in horizontal and vertical eye positions were recorded simultaneously. Vection strength was found to increase progressively over the course of each 30-s presentation of radial flow. Eye tracking revealed strong optokinetic responses, consistent with ocular following responses (OFRs). Reported increases in vection strength in all four gaze conditions were typically preceded by reductions in slow-phase eye velocity. Similar results were found in Experiment 2, where displays simulated self-motion over a ground plane, which provided superior perspective. We conclude in both cases that enhancements of vection strength over time were temporally contingent upon the changing character of OFR while viewing these displays.",
+          keyword:  ' ', 
+          image: "https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/933485/m_jov-10-12-7-fig001.jpeg?Expires=1736284858&Signature=i7uinK7vZEiuePT5VsJR0LYlDvhd3jikcxksT1VTcRz3naMtYrLHT31me9ikmC3GIg0Eh1-~RTlpISzCpSVvmGGKvVFCej~rgAc9Dyu-xZ6ax0pRkVKc7nn~YREzPLvpX8uc64vWex9BlI23BKnl2r2b9As8kKrcqNVyQ98bHe3JWSIzxXofMxYLkL8h8BKLTrOalY5Os-U0fhNFJb8~U9h4jp8NUIulY633sjQX5xVgoPQT8i1Jx41bNQqOi0wmEr26bHhSmf784isYQWFAx4m66-FyPkntwcWqfQGQARqJXekOkOSaaAA2ogkYADAxzNnymg8-mAOTIUgARWMIEg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+          link: 'https://jov.arvojournals.org/article.aspx?articleid=2191949'
+        },
+        {
+          title: 'Perception of linear horizontal self-motion induced by peripheral vision (linearvection) basic characteristics and visual-vestibular interactions',
+          abstract: "The basic characteristics of the sensation of linear horizontal motion have been studied. Objective linear motion was induced by means of a moving cart. Visually induced linear motion perception (linearvection) was obtained by projection of moving images at the periphery of the visual field. Image velocity and luminance thresholds for the appearance of linearvection have been measured and are in the range of those for image motion detection (without sensation of self motion) by the visual system. Latencies of onset are around 1 sec and short term adaptation has been shown. The dynamic range of the visual analyser as judged by frequency analysis is lower than for the vestibular analyser. Conflicting situations in which visual cues contradict vestibular and other proprioceptive cues show, in the case of linearvection a dominance of vision which supports the idea of an essential although not independent role of vision in self motion perception.",
+          keyword:  ' ', 
+          image: "https://maedalab-my.sharepoint.com/personal/kuang_longhui_hiel_ist_osaka-u_ac_jp/_layouts/15/download.aspx?share=ERlXNl9SuPFBmmNZN8NvsmoB6miJN4p2v0lBuQH1zI-f7w",
+          link: 'https://link.springer.com/article/10.1007/BF00234916'
+        },
+        {
+          title: 'Perception of self-motion from visual flow',
+          abstract: "Accurate and efficient control of self-motion is an important requirement for our daily behavior. Visual feedback about self-motion is provided by optic flow. Optic flow can be used to estimate the direction of self-motion (‘heading’) rapidly and efficiently. Analysis of oculomotor behavior reveals that eye movements usually accompany self-motion. Such eye movements introduce additional retinal image motion so that the flow pattern on the retina usually consists of a combination of self-movement and eye movement components. The question of whether this ‘retinal flow’ alone allows the brain to estimate heading, or whether an additional ‘extraretinal’ eye movement signal is needed, has been controversial. This article reviews recent studies that suggest that heading can be estimated visually but extraretinal signals are used to disambiguate problematic situations. The dorsal stream of primate cortex contains motion processing areas that are selective for optic flow and self-motion. Models that link the properties of neurons in these areas to the properties of heading perception suggest possible underlying mechanisms of the visual perception of self-motion.",
+          keyword:  ' ', 
+          image: 'https://ars.els-cdn.com/content/image/1-s2.0-S1364661399013649-gr1.gif',
+          link: 'https://www.sciencedirect.com/science/article/pii/S1364661399013649'
         },
       ],
     };
