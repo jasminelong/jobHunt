@@ -20,11 +20,10 @@
             <v-card-title class="wrap-text custom-title-color">{{ paper.title }}</v-card-title>
             <div>{{ paper.abstract }}</div>
             <div class="keyword-chip">{{ paper.keyword }}</div>
-            <v-card-actions class="mt-4"  >
+            <v-card-actions class="mt-4">
               <v-btn class="click-button" color="orange" @click="navigateTo(paper.link)">click</v-btn>
             </v-card-actions>
           </v-card-text>
-          
         </v-card>
       </v-col>
     </v-row>
@@ -194,7 +193,7 @@ export default {
         {
           title: 'Neural Correlates of Visual-Motion Perception as Object- or Self-motion',
           abstract: "Both self-motion and objects moving in our visual field generate visual motion by displacing images on the retina. Resolving this ambiguity may seem effortless but large-field visual-motion stimuli can yield perceptual rivalry between the real percept of object-motion and the illusory percept of self-motion (vection). We used functional magnetic resonance imaging to record brain activity in human observers exposed to constant-velocity roll-motion. This stimulus induced responses in areas reaching from calcarine to parieto-occipital and to ventral and lateral temporo-occipital cortex and the anterior insula. During vection, early motion-sensitive visual areas and vestibular parieto-insular cortex deactivated, whereas higher-order parieto- and temporo-occipital areas known to respond to optical flow retained identical activity levels. Within this sustained response, these latter areas displayed transient activations in response to each perceptual switch as identified in event-related analyses. Our results thus show that these areas are responsive to the type of visual motion stimulus and highly sensitive to its perceptual bistability. The only region to be more active during perceived self-motion was in, or close to, the cerebellar nodulus. This activation may correspond to the gain increase of torsional optokinetic nystagmus during vection and/or to changes in sensory processing related to the rotational percept. In conclusion, we identified neural correlates of perceiving self-motion from vision alone, i.e., in the absence of confirmatory vestibular or proprioceptive input. These functional properties preserve the organism's ability to move accurately in its environment by relying on visual cues under conditions when the other spatial senses fail to provide such information.",
-          keyword:  ' ', 
+          keyword:  'visual systemcircular vectionego-motionvestibular cortexperceptual ambiguityvisual awarenessfunctional magnetic resonance imaging', 
           image: 'https://maedalab-my.sharepoint.com/personal/kuang_longhui_hiel_ist_osaka-u_ac_jp/_layouts/15/download.aspx?share=EQQtCOuFAQ9HoNLo0Wv2FKIBy99VBoEXLAye1PY3caiUSw',
           link: 'https://sci-hub.se/10.1006/nimg.2002.1181'
         },
