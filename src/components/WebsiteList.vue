@@ -83,6 +83,11 @@
         src: 'https://assets.openwork.jp/images/common/logo_header.svg?01',
         lazySrc: 'https://picsum.photos/10/6?image=20'
       },
+      {
+        link: 'https://gaishishukatsu.com/recruiting_info?order=recommend&tagIDs=3&gy=2026&allgy=false&page=1',
+        src: 'https://gaishishukatsu.com/next-image/common/logo/full.svg',
+        lazySrc: 'https://picsum.photos/10/6?image=20'
+      },
       // Add more images and links as needed
     ];
   </script>
